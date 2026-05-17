@@ -55,25 +55,23 @@ Responsibilities:
 
 ## Architecture
 
+```text
 Bee
 │
 ├── Scout
 │
-└── Employee
+├── Employee
 │
 └── Observer
+```
 
 Additional entities:
 
-Node
-
-Terrain
-
-Sound
-
-TitleScreen
-
-EndScreen
+- Node
+- Terrain
+- Sound
+- TitleScreen
+- EndScreen
 
 The hierarchy is entirely based on object-oriented design principles.
 
@@ -98,13 +96,8 @@ Attributes include:
 
 Node colours change dynamically according to quality:
 
-Low quality:
-
-Blue tones
-
-High quality:
-
-Red tones
+- Low quality: Blue tones
+- High quality: Red tones
 
 This allows visual identification of attractive resources.
 
@@ -168,6 +161,7 @@ Used for:
 
 ## Simulation Workflow
 
+```text
 Initialisation
 
 ↓
@@ -205,6 +199,7 @@ Visual update
 ↓
 
 Repeat
+```
 
 ---
 
@@ -293,7 +288,7 @@ The project includes an original soundtrack composed specifically for the simula
 
 Language:
 
-Java
+- Java
 
 Concepts:
 
