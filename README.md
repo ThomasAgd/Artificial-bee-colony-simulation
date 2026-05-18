@@ -180,7 +180,7 @@ Observer evaluation
       ↓
 Visual update
       ↓
-    Repeat
+Repeat
 ```
 
 ---
