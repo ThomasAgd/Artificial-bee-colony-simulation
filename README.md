@@ -163,41 +163,23 @@ Used for:
 
 ```text
 Initialisation
-
-↓
-
+      ↓
 Environment generation
-
-↓
-
+      ↓
 Node creation
-
-↓
-
+      ↓
 Graph construction
-
-↓
-
+      ↓
 Scout exploration
-
-↓
-
+      ↓
 Employee assignment
-
-↓
-
+      ↓
 Neighbour optimisation
-
-↓
-
+      ↓
 Observer evaluation
-
-↓
-
+      ↓
 Visual update
-
-↓
-
+      ↓
 Repeat
 ```
 
